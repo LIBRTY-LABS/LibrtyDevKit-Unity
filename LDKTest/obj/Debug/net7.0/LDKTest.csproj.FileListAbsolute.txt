@@ -1,0 +1,15 @@
+/Users/kratijain/Documents/Projects/CryptoProjects/Librty/LibrtyDevKit-Unity/LDKTest/bin/Debug/net7.0/LDKTest
+/Users/kratijain/Documents/Projects/CryptoProjects/Librty/LibrtyDevKit-Unity/LDKTest/bin/Debug/net7.0/LDKTest.deps.json
+/Users/kratijain/Documents/Projects/CryptoProjects/Librty/LibrtyDevKit-Unity/LDKTest/bin/Debug/net7.0/LDKTest.runtimeconfig.json
+/Users/kratijain/Documents/Projects/CryptoProjects/Librty/LibrtyDevKit-Unity/LDKTest/bin/Debug/net7.0/LDKTest.dll
+/Users/kratijain/Documents/Projects/CryptoProjects/Librty/LibrtyDevKit-Unity/LDKTest/bin/Debug/net7.0/LDKTest.pdb
+/Users/kratijain/Documents/Projects/CryptoProjects/Librty/LibrtyDevKit-Unity/LDKTest/obj/Debug/net7.0/LDKTest.csproj.AssemblyReference.cache
+/Users/kratijain/Documents/Projects/CryptoProjects/Librty/LibrtyDevKit-Unity/LDKTest/obj/Debug/net7.0/LDKTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kratijain/Documents/Projects/CryptoProjects/Librty/LibrtyDevKit-Unity/LDKTest/obj/Debug/net7.0/LDKTest.AssemblyInfoInputs.cache
+/Users/kratijain/Documents/Projects/CryptoProjects/Librty/LibrtyDevKit-Unity/LDKTest/obj/Debug/net7.0/LDKTest.AssemblyInfo.cs
+/Users/kratijain/Documents/Projects/CryptoProjects/Librty/LibrtyDevKit-Unity/LDKTest/obj/Debug/net7.0/LDKTest.csproj.CoreCompileInputs.cache
+/Users/kratijain/Documents/Projects/CryptoProjects/Librty/LibrtyDevKit-Unity/LDKTest/obj/Debug/net7.0/LDKTest.dll
+/Users/kratijain/Documents/Projects/CryptoProjects/Librty/LibrtyDevKit-Unity/LDKTest/obj/Debug/net7.0/refint/LDKTest.dll
+/Users/kratijain/Documents/Projects/CryptoProjects/Librty/LibrtyDevKit-Unity/LDKTest/obj/Debug/net7.0/LDKTest.pdb
+/Users/kratijain/Documents/Projects/CryptoProjects/Librty/LibrtyDevKit-Unity/LDKTest/obj/Debug/net7.0/LDKTest.genruntimeconfig.cache
+/Users/kratijain/Documents/Projects/CryptoProjects/Librty/LibrtyDevKit-Unity/LDKTest/obj/Debug/net7.0/ref/LDKTest.dll
